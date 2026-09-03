@@ -1,12 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "notes": "新增应用内自动更新、数据备份导入导出、匹配性能优化",
   "sizeMb": 5.9,
   "apkUrls": [
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@main/ride-v1.4.apk",
-    "https://raw.githubusercontent.com/Q9171/ridenet-updates/main/ride-v1.4.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@main/ride-v1.4.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/Q9171/ridenet-updates/main/ride-v1.4.apk"
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@main/ride-v1.5.apk",
+    "https://raw.githubusercontent.com/Q9171/ridenet-updates/main/ride-v1.5.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@main/ride-v1.5.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/Q9171/ridenet-updates/main/ride-v1.5.apk"
   ]
 }
