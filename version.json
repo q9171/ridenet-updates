@@ -1,11 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "notes": "界面分页：拆成骑行/地图/数据/设置四个页面，不再全部堆在一屏",
+  "versionCode": 14,
+  "versionName": "1.13",
+  "notes": "修复冷启动闪退：启动时先渲染界面再加载路网、去掉3万条边的冗余geom、坐标转换改为用到才算",
   "sizeMb": 6,
   "apkUrls": [
-    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.12.0/ride-v1.12.apk",
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.12.0/ride-v1.12.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.12.0/ride-v1.12.apk"
+    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.13.0/ride-v1.13.apk",
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.13.0/ride-v1.13.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.13.0/ride-v1.13.apk"
   ]
 }
