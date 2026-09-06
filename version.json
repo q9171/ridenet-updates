@@ -1,11 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "notes": "修复自动更新：改用全新标签发版，不再被CDN缓存导致收不到提示；新增地图右上角收起按钮",
+  "versionCode": 13,
+  "versionName": "1.12",
+  "notes": "界面分页：拆成骑行/地图/数据/设置四个页面，不再全部堆在一屏",
   "sizeMb": 6,
   "apkUrls": [
-    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.11.0/ride-v1.11.apk",
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.11.0/ride-v1.11.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.11.0/ride-v1.11.apk"
+    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.12.0/ride-v1.12.apk",
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.12.0/ride-v1.12.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.12.0/ride-v1.12.apk"
   ]
 }
