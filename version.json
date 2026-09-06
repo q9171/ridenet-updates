@@ -1,12 +1,11 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "notes": "新增应用内自动更新、数据备份导入导出、匹配性能优化",
-  "sizeMb": 5.9,
+  "versionCode": 12,
+  "versionName": "1.11",
+  "notes": "修复自动更新：改用全新标签发版，不再被CDN缓存导致收不到提示；新增地图右上角收起按钮",
+  "sizeMb": 6,
   "apkUrls": [
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@main/ride-v1.9.apk",
-    "https://raw.githubusercontent.com/Q9171/ridenet-updates/main/ride-v1.9.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@main/ride-v1.9.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/Q9171/ridenet-updates/main/ride-v1.9.apk"
+    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.11.0/ride-v1.11.apk",
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.11.0/ride-v1.11.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.11.0/ride-v1.11.apk"
   ]
 }
