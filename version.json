@@ -1,11 +1,11 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "notes": "修复冷启动闪退：启动时先渲染界面再加载路网、去掉3万条边的冗余geom、坐标转换改为用到才算",
+  "versionCode": 15,
+  "versionName": "1.14",
+  "notes": "修复收不到更新推送：版本发现接口返回的是对象数组，老代码按字符串处理导致挑不出任何版本，一直退回自己。同时检查更新按钮现在会显示结果",
   "sizeMb": 6,
   "apkUrls": [
-    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.13.0/ride-v1.13.apk",
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.13.0/ride-v1.13.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.13.0/ride-v1.13.apk"
+    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.14.0/ride-v1.14.apk",
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.14.0/ride-v1.14.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.14.0/ride-v1.14.apk"
   ]
 }
