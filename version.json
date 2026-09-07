@@ -1,11 +1,11 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "notes": "修复收不到更新推送：版本发现接口返回的是对象数组，老代码按字符串处理导致挑不出任何版本，一直退回自己。同时检查更新按钮现在会显示结果",
+  "versionCode": 16,
+  "versionName": "1.15",
+  "notes": "修复分页面板空白：地图/数据/设置三个Tab此前因.hidden优先级过高显示不出来；切到地图页会自动展开地图；修复一处启动崩溃",
   "sizeMb": 6,
   "apkUrls": [
-    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.14.0/ride-v1.14.apk",
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.14.0/ride-v1.14.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.14.0/ride-v1.14.apk"
+    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.15.0/ride-v1.15.apk",
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.15.0/ride-v1.15.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.15.0/ride-v1.15.apk"
   ]
 }
