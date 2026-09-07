@@ -1,11 +1,11 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "notes": "收起地图更方便：地图Tab变成开关（点开展开、再点收起），右上角浮动按钮改成带文字的收起按钮",
+  "versionCode": 18,
+  "versionName": "1.17",
+  "notes": "收起按钮移到地图内（和缩放+/-成组，地图App惯例）",
   "sizeMb": 6,
   "apkUrls": [
-    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.16.0/ride-v1.16.apk",
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.16.0/ride-v1.16.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.16.0/ride-v1.16.apk"
+    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.17.0/ride-v1.17.apk",
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.17.0/ride-v1.17.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.17.0/ride-v1.17.apk"
   ]
 }
