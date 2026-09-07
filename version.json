@@ -1,11 +1,11 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "notes": "修复分页面板空白：地图/数据/设置三个Tab此前因.hidden优先级过高显示不出来；切到地图页会自动展开地图；修复一处启动崩溃",
+  "versionCode": 17,
+  "versionName": "1.16",
+  "notes": "收起地图更方便：地图Tab变成开关（点开展开、再点收起），右上角浮动按钮改成带文字的收起按钮",
   "sizeMb": 6,
   "apkUrls": [
-    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.15.0/ride-v1.15.apk",
-    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.15.0/ride-v1.15.apk",
-    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.15.0/ride-v1.15.apk"
+    "https://gcore.jsdelivr.net/gh/Q9171/ridenet-updates@v1.16.0/ride-v1.16.apk",
+    "https://fastly.jsdelivr.net/gh/Q9171/ridenet-updates@v1.16.0/ride-v1.16.apk",
+    "https://cdn.jsdelivr.net/gh/Q9171/ridenet-updates@v1.16.0/ride-v1.16.apk"
   ]
 }
